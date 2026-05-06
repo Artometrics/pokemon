@@ -181,7 +181,7 @@ numbers are more interesting than the marketing.
 <div class="facts-grid">
   <div class="fact-box">
     <span class="fact-number">`r n_total`</span>
-    <span class="fact-label">Pokémon in the dataset across all nine generations</span>
+    <span class="fact-label">Pokémon in the dataset with a confirmed primary type</span>
   </div>
   <div class="fact-box">
     <span class="fact-number">`r n_types`</span>
@@ -189,7 +189,7 @@ numbers are more interesting than the marketing.
   </div>
   <div class="fact-box">
     <span class="fact-number">`r n_generations`</span>
-    <span class="fact-label">Generations of game releases covered</span>
+    <span class="fact-label">Generation IDs in the data — Gen 8 and 9 unclassified in source</span>
   </div>
   <div class="fact-box">
     <span class="fact-number">`r median_bxp`</span>
